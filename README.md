@@ -1,7 +1,7 @@
 # Rémy Maupetit  
 ## **Data Analyst | Analyse & Visualisation de données** 
 
-<img src="https://github.com/user-attachments/assets/696ba1da-8ad1-47fe-9477-5cd30b7ae015" alt="photo CV" width="150" />
+![Mon image](photo cv.jpg)
 
 ---
 
