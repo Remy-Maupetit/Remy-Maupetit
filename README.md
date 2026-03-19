@@ -50,7 +50,7 @@ Il illustre ma capacité à :
 
 * **Préparation de données, traitement conforme RGPD, calcul de scores de performance.**
 
-![PowerPoint](https://img.shields.io/badge/PowerPoint-Pr%C3%A9sentations%20pro-orange)
+![PowerPoint](https://img.shields.io/badge/POWERPOINT?style=for-the-bagde&logo=POWERPOINT&logoColor=White)
 
 * **Slides claires, storytelling efficace et design professionnel.**
 
