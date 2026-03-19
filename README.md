@@ -76,7 +76,7 @@ Il illustre ma capacité à :
 
 - 📊 [Projets Données](https://github.com/Remy-Maupetit/Projets_Data)
 
-Regroupe les livrables des différents projets menés pour ESNDATA.
+Regroupe les livrables produits lors des différentes missions menées pour ESNDATA.
 
 - ✈️ [Projet Portfolio Aeroworld](https://github.com/Remy-Maupetit/Projet_Portfoliot_Aeroworld)
 
