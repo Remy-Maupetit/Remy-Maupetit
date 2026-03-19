@@ -17,7 +17,7 @@ Souhaitant évoluer vers un métier centré sur l’analyse et la valorisation d
 
 J'ai ensuite intégré le cabinet de consulting **ESNDATA** spécialisé dans la Data en tant que consultant Data Analyst.
 
-Ce portfolio présente les projets réalisés depuis mon intégration chez **ESNDATA**. 
+Ce portfolio présente les missions réalisées depuis mon intégration chez **ESNDATA**. 
 
 Il illustre ma capacité à : 
 
