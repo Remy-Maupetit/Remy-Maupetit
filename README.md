@@ -66,9 +66,9 @@ Il illustre ma capacité à :
 
 Ce portfolio vous propose deux dossiers concernant mon parcours et mes projets
 
-- 📊 [Projets Données](https://github.com/Remy-Maupetit/Projets_Données)
+- 📊 [Projets Données](https://github.com/Rémy-Maupetit/Projets_Données)
 
-- ✈️ [Projet Portfolio Aeroworld](https://github.com/Remy-Maupetit/Projet_Portfolio_Aeroworld)
+- ✈️ [Projet Portfolio Aeroworld](https://github.com/Rémy-Maupetit/Projet_Portfolio_Aeroworld)
 
   
 ---
