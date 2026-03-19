@@ -1,7 +1,7 @@
 # Rémy Maupetit  
 ## **Data Analyst | Analyse & Visualisation de données** 
 
-![Photo](photo-cv.jpg)
+![Photo](photo_cv.jpg)
 
 ---
 
