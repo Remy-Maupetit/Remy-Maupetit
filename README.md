@@ -64,14 +64,18 @@ Il illustre ma capacité à :
 
 ---
 
-Ce portfolio vous propose deux dossiers concernant mon parcours et mes projets
+**Ce portfolio vous propose deux dossiers concernant mon parcours et mes projets.**
 
 - 📊 [Projets Données](https://github.com/Remy-Maupetit/Projets_Data)
 
+**Regroupe les livrables des différents projets menés pour ESNDATA.**
+
 - ✈️ [Projet Portfolio Aeroworld](https://github.com/Remy-Maupetit/Projet_Portfoliot_Aeroworld)
 
-  
+**Regroupe les livrables demandés par Aeroworld dans le cadre du recrutement d'un Data Analyst Chef de projet.**  
+
 ---
+
 ## 🔗 Contactez moi
 
 [LinkedIn](https://www.linkedin.com/in/remy-maupetit-986648311) | [GitHub](https://github.com/Remy-Maupetit) | [Email](mailto:remymaupetit@cegetel.net)
