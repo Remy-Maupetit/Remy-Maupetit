@@ -48,7 +48,11 @@ Il illustre ma capacité à :
 
 ![Knime](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=KNIME&logoColor=white)  
 
-* **Préparation de données, traitement conforme RGPD, calcul de scores de performance.**  
+* **Préparation de données, traitement conforme RGPD, calcul de scores de performance.**
+
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Pr%C3%A9sentations%20pro-orange)
+
+* **Slides claires, storytelling efficace et design professionnel.**
 
 ---
 
