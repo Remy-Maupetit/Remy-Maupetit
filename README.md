@@ -52,7 +52,7 @@ Il illustre ma capacité à :
 
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-orange?style=for-the-badge&logo=powerpoint&logoColor=white)
 
-* **Slides claires, storytelling efficace et design professionnel.**
+* **Slides claires, storytelling pédagogique et efficace, design professionnel.**
 
 ---
 
