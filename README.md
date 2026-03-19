@@ -64,6 +64,14 @@ Il illustre ma capacité à :
 
 ---
 
+Ce portfolio vous propose deux dossiers concernant mon parcours et mes projets
+
+- 📊 [Projets Données](https://github.com/Remy-Maupetit/Projets_Données)
+
+- ✈️ [Projet Portfolio Aeroworld](https://github.com/Remy-Maupetit/Projet-Portfolio-Aeroworld)
+
+  
+---
 ## 🔗 Contactez moi
 
 [LinkedIn](https://www.linkedin.com/in/remy-maupetit-986648311) | [GitHub](https://github.com/Remy-Maupetit) | [Email](mailto:remymaupetit@cegetel.net)
