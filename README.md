@@ -31,18 +31,23 @@ Il illustre ma capacité à :
 ## Compétences techniques
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
 **Analyse exploratoire, visualisation, analyses uni et multi-variées, analyses statistiques, classification, machine learning.**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
+
 **Création et gestion de bases de données, requêtes analytiques orientées besoins métiers.**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
 **Conception de tableaux de bord interactifs, modélisation simple de données, création d’indicateurs clés (KPI).**
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 **Tableaux de reporting structurés, visualisations claires et pertinentes.** 
 
 ![Knime](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=KNIME&logoColor=white)  
+
 **Préparation de données, traitement conforme RGPD, calcul de scores de performance.**  
 
 ---
