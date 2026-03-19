@@ -72,9 +72,9 @@ Il illustre ma capacité à :
 
 ---
 
-**Ce portfolio vous propose deux dossiers concernant mon parcours et mes projets.**
+**Ce portfolio vous propose deux dossiers concernant mon parcours et les missions réalisés.**
 
-- 📊 [Projets Données](https://github.com/Remy-Maupetit/Projets_Data)
+- 📊 [Missions Data Réalisées](https://github.com/Remy-Maupetit/Projets_Data)
 
 Regroupe les livrables produits lors des différentes missions menées pour ESNDATA.
 
