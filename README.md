@@ -22,7 +22,7 @@ Ce portfolio présente les missions réalisées depuis mon intégration chez **E
 Il illustre ma capacité à : 
 
 * **Structurer un besoin métier**  
-* **Analyser et exploiter des données**  
+* **L'analyse et l'exploitation de données**  
 * **Concevoir des tableaux de bord décisionnels**  
 * **Vulgariser des résultats analytiques**  
 
