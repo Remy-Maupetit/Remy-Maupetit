@@ -1,9 +1,8 @@
 # Rémy Maupetit  
 ## **Data Analyst | Analyse & Visualisation de données** 
 
-![Photo](photo_cv.jpg)
 <p align="center">
-  <img src="photo-cv.jpg" width="250"/>
+  <img src="photo_cv.jpg" width="250"/>
 </p>
 ---
 
