@@ -34,7 +34,7 @@ Il illustre ma capacité à :
 
 * **Analyse exploratoire, visualisation, analyses uni et multi-variées, analyses statistiques, classification, machine learning.**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
 
 * **Création et gestion de bases de données, requêtes analytiques orientées besoins métiers.**
 
