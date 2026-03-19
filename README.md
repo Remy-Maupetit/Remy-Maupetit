@@ -50,7 +50,7 @@ Il illustre ma capacité à :
 
 * **Préparation de données, traitement conforme RGPD, calcul de scores de performance.**
 
-![PowerPoint](https://img.shields.io/badge/POWERPOINT?style=for-the-bagde&logo=POWERPOINT&logoColor=White)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Expert-orange?style=for-the-badge&logo=powerpoint&logoColor=white)
 
 * **Slides claires, storytelling efficace et design professionnel.**
 
