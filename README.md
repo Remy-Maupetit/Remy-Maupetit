@@ -68,7 +68,7 @@ Ce portfolio vous propose deux dossiers concernant mon parcours et mes projets
 
 - 📊 [Projets Données](https://github.com/Remy-Maupetit/Projets_Données)
 
-- ✈️ [Projet Portfolio Aeroworld](https://github.com/Remy-Maupetit/Projet-Portfolio-Aeroworld)
+- ✈️ [Projet Portfolio Aeroworld](https://github.com/Remy-Maupetit/Projet_Portfolio_Aeroworld)
 
   
 ---
