@@ -2,8 +2,9 @@
 ## **Data Analyst | Analyse & Visualisation de données** 
 
 <p align="center">
-  <img src="photo_cv.jpg" width="250"/>
+  <img src="photo_cv.jpg" width="200"/>
 </p>
+
 ---
 
 ## À propos
