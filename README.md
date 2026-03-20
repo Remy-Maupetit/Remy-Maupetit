@@ -86,4 +86,4 @@ Regroupe les livrables demandés par Aeroworld dans le cadre du recrutement d'un
 
 ## 🔗 Contactez moi
 
-[LinkedIn](https://www.linkedin.com/in/remy-maupetit-986648311) | [GitHub](https://github.com/Remy-Maupetit) | [Email](mailto:remymaupetit@cegetel.net)
+[LinkedIn](https://www.linkedin.com/in/remy-maupetit-986648311) | [GitHub](https://github.com/Remy-Maupetit) |
