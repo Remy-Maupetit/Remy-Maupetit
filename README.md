@@ -27,22 +27,22 @@ Ce portfolio présente mes missions et illustre ma capacité à :
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
-### ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
+### ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Analyse exploratoire, visualisation, analyses statistiques et machine learning  
 
-### ![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white) SQL
+### ![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
 - Création et gestion de bases de données, requêtes analytiques orientées métiers  
 
-### ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) Power BI
+### ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 - Conception de dashboards interactifs, KPI, modélisation simple de données  
 
-### ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) Excel
+### ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 - Tableaux de reporting structurés et visualisations pertinentes  
 
-### ![Knime](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=KNIME&logoColor=white) KNIME
+### ![Knime](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=KNIME&logoColor=white)
 - Préparation et traitement de données conformes RGPD, calcul de scores de performance  
 
-### ![PowerPoint](https://img.shields.io/badge/PowerPoint-orange?style=for-the-badge&logo=powerpoint&logoColor=white) PowerPoint
+### ![PowerPoint](https://img.shields.io/badge/PowerPoint-orange?style=for-the-badge&logo=powerpoint&logoColor=white)
 - Storytelling pédagogique et design professionnel des slides
 
 </div>
@@ -65,7 +65,7 @@ Ce portfolio présente mes missions et illustre ma capacité à :
 
 ---
 
-## 📁 Projets Portfolio
+## 📁 Les repertoires composant ce portfolio :
 
 <div style="display: flex; flex-direction: column; gap: 1rem;">
 
