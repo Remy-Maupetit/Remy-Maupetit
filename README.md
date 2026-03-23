@@ -1,4 +1,4 @@
-# Rémy Maupetit  
+# 👋 Rémy Maupetit  
 ## **Data Analyst | Analyse & Visualisation de données** 
 
 <p align="center">
@@ -7,83 +7,80 @@
 
 ---
 
-## À propos
+## 🧑‍💼 À propos
 
-Je m'appelle **Rémy Maupetit**, j'ai 44 ans.  
+Je m'appelle **Rémy Maupetit**, 44 ans.  
+Avec **23 ans d'expérience dans la logistique du dernier kilomètre**, dont **5 ans en tant qu’Organisateur Analyste**, j’ai développé une forte culture opérationnelle et orientée performance.  
 
-Professionnel expérimenté avec **23 ans dans la logistique du dernier kilomètre**, dont **5 ans en tant qu’Organisateur Analyste**, j’ai développé une forte culture opérationnelle et orientée performance.  
+Depuis 2025, je me suis spécialisé en **Data Analyst**, après une formation dédiée, et j’ai intégré **ESNDATA** en tant que consultant.  
 
-Souhaitant évoluer vers un métier centré sur l’analyse et la valorisation des données, j’ai suivi et terminé avec succès une formation de **Data Analyst** en 2025.  
+Ce portfolio présente mes missions et illustre ma capacité à :  
 
-J'ai ensuite intégré le cabinet de consulting **ESNDATA** spécialisé dans la Data en tant que consultant Data Analyst.
-
-Ce portfolio présente les missions réalisées depuis mon intégration chez **ESNDATA**. 
-
-Il illustre ma capacité à : 
-
-* **Structurer un besoin métier**  
-* **L'analyse et l'exploitation de données**  
-* **Concevoir des tableaux de bord décisionnels**  
-* **Vulgariser des résultats analytiques**  
+- **Structurer un besoin métier**  
+- **Analyser et exploiter les données**  
+- **Concevoir des tableaux de bord décisionnels**  
+- **Vulgariser des résultats analytiques**
 
 ---
 
-## Compétences techniques
+## 🛠️ Compétences techniques
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
-* **Analyse exploratoire, visualisation, analyses uni et multi-variées, analyses statistiques, classification, machine learning.**
+### ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
+- Analyse exploratoire, visualisation, analyses statistiques et machine learning  
 
-![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
+### ![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white) SQL
+- Création et gestion de bases de données, requêtes analytiques orientées métiers  
 
-* **Création et gestion de bases de données, requêtes analytiques orientées besoins métiers.**
+### ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) Power BI
+- Conception de dashboards interactifs, KPI, modélisation simple de données  
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+### ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) Excel
+- Tableaux de reporting structurés et visualisations pertinentes  
 
-* **Conception de tableaux de bord interactifs, modélisation simple de données, création d’indicateurs clés (KPI).**
+### ![Knime](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=KNIME&logoColor=white) KNIME
+- Préparation et traitement de données conformes RGPD, calcul de scores de performance  
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### ![PowerPoint](https://img.shields.io/badge/PowerPoint-orange?style=for-the-badge&logo=powerpoint&logoColor=white) PowerPoint
+- Storytelling pédagogique et design professionnel des slides
 
-* **Tableaux de reporting structurés, visualisations claires et pertinentes.** 
-
-![Knime](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=KNIME&logoColor=white)  
-
-* **Préparation de données, traitement conforme RGPD, calcul de scores de performance.**
-
-![PowerPoint](https://img.shields.io/badge/PowerPoint-orange?style=for-the-badge&logo=powerpoint&logoColor=white)
-
-* **Slides claires, storytelling pédagogique et efficace, design professionnel.**
+</div>
 
 ---
 
-## Compétences comportementales
+## 💡 Compétences comportementales
 
-- **Rigueur** : Garantir la fiabilité et l’intégrité des analyses.  
-- **Esprit analytique** : Transformer les données en insights exploitables.  
-- **Communication et pédagogie** : Rendre l’analyse accessible à un public non expert.  
-- **Organisation** : Structurer les projets et prioriser efficacement.  
-- **Sens des responsabilités** : Produire des analyses conformes aux contraintes métiers et être force de proposition.  
-- **Écoute métier** : Comprendre les enjeux opérationnels avant toute analyse.  
-- **Créativité** : Concevoir des tableaux de bord innovants, esthétiques et accessibles.  
-- **Éthique** : Respect strict des normes (RGPD) de confidentialité.  
-- **Curiosité et adaptabilité** : Apprentissage continu et veille active.  
-- **Esprit critique** : Questionner les résultats et éviter les biais.  
-- **Persévérance** : Ne pas se décourager en cas d’échec et se remettre en question pour atteindre les objectifs fixés.  
-
----
-
-**Ce portfolio vous propose deux dossiers concernant mon parcours et les missions réalisés.**
-
-- 📊 [Missions Data Réalisées](https://github.com/Remy-Maupetit/Projets_Data)
-
-Regroupe les livrables produits lors des différentes missions menées pour ESNDATA.
-
-- ✈️ [Projet Portfolio Aeroworld](https://github.com/Remy-Maupetit/Projet_Portfoliot_Aeroworld)
-
-Regroupe les livrables demandés par Aeroworld dans le cadre du recrutement d'un Data Analyst Chef de projet. 
+- **Rigueur** – Fiabilité et intégrité des analyses  
+- **Esprit analytique** – Transformer les données en insights exploitables  
+- **Communication & pédagogie** – Accessibilité pour les non-experts  
+- **Organisation & priorisation** – Structurer efficacement les projets  
+- **Sens des responsabilités** – Conformité aux contraintes métiers  
+- **Écoute métier** – Compréhension des enjeux avant analyse  
+- **Créativité** – Tableaux de bord innovants et esthétiques  
+- **Éthique** – Respect strict des normes RGPD  
+- **Curiosité & adaptabilité** – Veille et apprentissage continus  
+- **Esprit critique** – Questionner les résultats, éviter les biais  
+- **Persévérance** – Se remettre en question et atteindre les objectifs
 
 ---
 
-## 🔗 Contactez moi
+## 📁 Projets Portfolio
 
-[LinkedIn](https://www.linkedin.com/in/remy-maupetit-986648311) | [GitHub](https://github.com/Remy-Maupetit) |
+<div style="display: flex; flex-direction: column; gap: 1rem;">
+
+### 📊 [Missions Data Réalisées](https://github.com/Remy-Maupetit/Projets_Data)
+- Regroupe les livrables produits lors des différentes missions menées pour **ESNDATA**  
+- Analyse de données, dashboards, rapports et notebooks
+
+### ✈️ [Projet Portfolio Aeroworld](https://github.com/Remy-Maupetit/Projet_Portfoliot_Aeroworld)
+- Regroupe les livrables demandés par **Aeroworld** dans le cadre du recrutement Data Analyst / Chef de projet  
+- Dashboards Power BI, cahier des charges, rétroplanning et guides opérationnels
+
+</div>
+
+---
+
+## 🔗 Contact
+
+[LinkedIn](https://www.linkedin.com/in/remy-maupetit-986648311) | [GitHub](https://github.com/Remy-Maupetit)
