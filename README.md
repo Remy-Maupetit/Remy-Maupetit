@@ -82,6 +82,6 @@ Ce portfolio présente mes missions et illustre ma capacité à :
 
 ---
 
-## 🔗 Contact
+## 🔗 Pour me contacter :
 
 [LinkedIn](https://www.linkedin.com/in/remy-maupetit-986648311) | [GitHub](https://github.com/Remy-Maupetit)
