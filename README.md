@@ -71,7 +71,7 @@ Ce portfolio présente mes missions et illustre ma capacité à :
 <div style="display: flex; flex-direction: column; gap: 1rem;">
 
 ### 📊 [Missions Data Réalisées](https://github.com/Remy-Maupetit/Projets_Data)
-- Regroupe les livrables produits lors des différentes missions menées pour **ESNDATA**  
+- Regroupe les documents produits lors des différentes missions menées pour **ESNDATA**  
 - Analyse de données, dashboards, rapports et notebooks
 
 ### ✈️ [Projet Portfolio Aeroworld](https://github.com/Remy-Maupetit/Projet_Portfoliot_Aeroworld)
