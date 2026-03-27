@@ -1,5 +1,5 @@
 # 👋 Rémy Maupetit  
-## **Data Analyst | Analyse & Visualisation de données** 
+## **Data Analyst ** 
 
 <p align="center">
   <img src="photo_cv.jpg" width="200"/>
