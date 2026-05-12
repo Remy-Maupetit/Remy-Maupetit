@@ -13,9 +13,9 @@ Je m'appelle **Rémy Maupetit**, j'ai 44 ans.
 
 Avec **23 ans d'expérience dans la logistique du dernier kilomètre**, dont **5 ans en tant qu’Organisateur Analyste**, j’ai développé une forte culture opérationnelle orientée performance et conduite du changement.  
 
-Depuis 2025, je me suis spécialisé en **Analyse de données**, après une formation dédiée, j’ai intégré **ESNDATA** en tant que **Consultant Data Analyst**.  
+Depuis 2025, je me suis spécialisé en **Analyse de données**, en réalisant avec succès un cursus de formation de Data Analyst avec OpenClassrooms.  
 
-Ce portfolio présente mes missions et illustre ma capacité à :  
+Ce portfolio présente les missions réalisées durant ma formation et illustre ma capacité à :  
 
 - **Structurer un besoin métier**  
 - **Analyser et exploiter les données**  
