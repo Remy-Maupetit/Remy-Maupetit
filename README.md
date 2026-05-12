@@ -70,8 +70,8 @@ Ce portfolio présente les missions réalisées durant ma formation et illustre 
 
 <div style="display: flex; flex-direction: column; gap: 1rem;">
 
-### 📊 [Missions Data Réalisées](https://github.com/Remy-Maupetit/Projets_Data)
-- Regroupe les documents produits lors des différentes missions menées pour **ESNDATA**  
+### 📊 [Projets Data Réalisés](https://github.com/Remy-Maupetit/Projets_Data)
+- Regroupe les documents produits lors des différents projet menées durant mon cursus de formation de  **DATA Analyst**  
 - Analyse de données, dashboards, rapports et notebooks
 
 
