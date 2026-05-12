@@ -66,7 +66,7 @@ Ce portfolio présente les missions réalisées durant ma formation et illustre 
 
 ---
 
-## 📁 Les repertoires composant ce portfolio :
+## 📁 Repertoire composant ce portfolio :
 
 <div style="display: flex; flex-direction: column; gap: 1rem;">
 
@@ -74,9 +74,6 @@ Ce portfolio présente les missions réalisées durant ma formation et illustre 
 - Regroupe les documents produits lors des différentes missions menées pour **ESNDATA**  
 - Analyse de données, dashboards, rapports et notebooks
 
-### ✈️ [Projet Portfolio Aeroworld](https://github.com/Remy-Maupetit/Projet_Portfoliot_Aeroworld)
-- Regroupe les livrables demandés par **Aeroworld** dans le cadre du recrutement Data Analyst / Chef de projet  
-- Dashboards Power BI, cahier des charges, rétroplanning et guides opérationnels
 
 </div>
 
