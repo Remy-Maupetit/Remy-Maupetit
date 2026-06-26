@@ -76,7 +76,7 @@ Ce portfolio présente les missions réalisées durant ma formation et illustre 
 
 
 ### 🏆 [Tableau de bord Coupe du Monde](https://github.com/Remy-Maupetit/Tableau-de-Bord-FIFA-WORLD-CUP)
-- Dashboard interactif analysant les données de la Coupe du Monde  
+- Dashboard interactif analysant les données de la Coupe du Monde de football de la FIFA depuis sa création 
 - Visualisations et insights sur les performances, statistiques et tendances
 
 </div>
