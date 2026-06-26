@@ -75,6 +75,10 @@ Ce portfolio présente les missions réalisées durant ma formation et illustre 
 - Analyse de données, dashboards, rapports et notebooks
 
 
+### 🏆 [Tableau de bord Coupe du Monde](https://github.com/Remy-Maupetit/Tableau-de-bord-Coupe-du-Monde)
+- Dashboard interactif analysant les données de la Coupe du Monde  
+- Visualisations et insights sur les performances, statistiques et tendances
+
 </div>
 
 ---
